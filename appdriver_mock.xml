@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
   <campaign>
-    <name>スマートパス111</name>
+    <name>スマートパス linh test </name>
     <advertisement>
-      <name>インストール111</name>
+      <name>インストール linh test</name>
       <id>899</id>
       <payment>79</payment>
       <period>0</period>
