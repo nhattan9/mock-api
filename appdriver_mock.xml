@@ -10,7 +10,7 @@
       <point>0</point>
       <requisite>15</requisite>
     </advertisement>
-    <budget_is_unlimited>false</budget_is_unlimited>
+    <budget_is_unlimited>true</budget_is_unlimited>
     <category_id>100</category_id>
     <detail>テストプロモーションです。</detail>
     <duplication_type>0</duplication_type>
