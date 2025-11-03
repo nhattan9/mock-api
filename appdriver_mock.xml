@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
   <campaign>
-    <name>スマートパス linh test </name>
+    <name>Kaopiz test</name>
     <advertisement>
-      <name>インストール linh test</name>
-      <id>899</id>
-      <payment>79</payment>
-      <period>0</period>
-      <point>0</point>
-      <requisite>15</requisite>
+      <name>Kaopiz test</name>
+      <id>89</id>
+      <payment>7</payment>
+      <period>1</period>
+      <point>1</point>
+      <requisite>1</requisite>
     </advertisement>
-    <budget_is_unlimited>true</budget_is_unlimited>
-    <category_id>100</category_id>
-    <detail>テストプロモーションです。</detail>
-    <duplication_type>0</duplication_type>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>10</category_id>
+    <detail>テ</detail>
+    <duplication_type>1</duplication_type>
     <end_time>2110-12-31 23:59:59</end_time>
     <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
     <id>522</id>
