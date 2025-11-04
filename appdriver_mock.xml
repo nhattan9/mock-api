@@ -1815,33 +1815,6 @@ Point anytimeへ新規無料会員登録後サイト内の広告へ登録しポ�
     <url></url>
   </campaign>
   <campaign>
-    <name>受入れ確認用 Solitaire Cruise</name>
-    <advertisement>
-      <name>test</name>
-      <id>19559</id>
-      <payment>800</payment>
-      <period>0</period>
-      <point>6</point>
-      <requisite>1</requisite>
-    </advertisement>
-    <budget_is_unlimited>false</budget_is_unlimited>
-    <category_id>21</category_id>
-    <detail>Solitaire Cruise</detail>
-    <duplication_type>0</duplication_type>
-    <end_time>2031-09-13 23:59:59</end_time>
-    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
-    <id>18577</id>
-    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=8fad338362cd379e59ad863b49ba08e2d96be3673e7909980abafcf857634082&amp;campaign_id=18577&amp;_identifier=</location>
-    <market></market>
-    <platform>1</platform>
-    <price>0</price>
-    <remaining>NULL</remaining>
-    <remark>test</remark>
-    <start_time>2021-09-13 00:00:00</start_time>
-    <subscription_duration>0</subscription_duration>
-    <url></url>
-  </campaign>
-  <campaign>
     <name>クーポンぽこ</name>
     <advertisement>
       <name>test</name>
