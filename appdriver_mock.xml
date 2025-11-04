@@ -3384,33 +3384,6 @@ https://en.wikipedia.org/wiki/Dispute_between_Darnhall_and_Vale_Royal_Abbey
     <url></url>
   </campaign>
   <campaign>
-    <name>テスト案件_アプリiOS5</name>
-    <advertisement>
-      <name>テスト5</name>
-      <id>22561</id>
-      <payment>80</payment>
-      <period>0</period>
-      <point>0</point>
-      <requisite>2</requisite>
-    </advertisement>
-    <budget_is_unlimited>false</budget_is_unlimited>
-    <category_id>1</category_id>
-    <detail>テスト案件</detail>
-    <duplication_type>1</duplication_type>
-    <end_time>2034-12-06 23:59:59</end_time>
-    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
-    <id>21346</id>
-    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=6ad77fe7ca4511ffaf94f616768795e21542a29b9fe9c64b6482099cbbb27ca9&amp;campaign_id=21346&amp;_identifier=</location>
-    <market>7</market>
-    <platform>2</platform>
-    <price>0</price>
-    <remaining>995</remaining>
-    <remark>テスト案件</remark>
-    <start_time>2024-12-06 00:00:00</start_time>
-    <subscription_duration>0</subscription_duration>
-    <url></url>
-  </campaign>
-  <campaign>
     <name>テスト案件</name>
     <advertisement>
       <name>テスト23</name>
